@@ -12,7 +12,6 @@ export const Banniere = () => {
         </p>
       </div>
       <div className="item-2">
-        <img src="src/assets/img/banniere.jpg" alt="image grosse" />
       </div>
     </div>
   )
