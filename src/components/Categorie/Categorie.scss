@@ -1,5 +1,5 @@
 .categorie {
-    margin: 50px 0 50px 0;
+    margin: 50px 100px 50px 100px;
 
     .liste-1 {
         list-style: none;
@@ -8,6 +8,7 @@
         height: 300px;
         justify-content: space-between;
         margin: 0;
+
         .item-1 {
             width: 40%;
             padding: 0 10px 0 10px;
@@ -16,7 +17,7 @@
             align-items: center;
             justify-content: center;
             margin: 5px;
-            box-shadow:  0 0 5px #b4b4b4;
+            box-shadow: 0 0 5px #b4b4b4;
             border-radius: 10px;
 
             h2 {
@@ -37,7 +38,7 @@
         }
 
         .item-2 {
-            background-color: #b2d0dd;
+            background-color: #000000;
             width: 30%;
             padding: 0 10px 0 10px;
             display: flex;
@@ -49,7 +50,7 @@
         }
 
         .item-3 {
-            background-color: #fcfcca;
+            background-color: #000000;
             width: 30%;
             padding: 0 10px 0 10px;
             display: flex;
@@ -68,6 +69,7 @@
         height: 300px;
         justify-content: space-between;
         margin: 0;
+
         .item-1 {
             width: 30%;
             padding: 0 10px 0 10px;
@@ -77,7 +79,7 @@
             justify-content: center;
             margin: 5px;
             border-radius: 10px;
-            box-shadow:  0 0 5px #b4b4b4;
+            box-shadow: 0 0 5px #b4b4b4;
 
             h2 {
                 font-size: 2rem;
@@ -91,6 +93,7 @@
 
             ul {
                 padding: 0;
+
                 li {
                     text-align: center;
                     font-size: 1.5rem;
@@ -102,7 +105,7 @@
         }
 
         .item-2 {
-            background-color: #b2d0dd;
+            background-color: #000000;
             width: 60%;
             padding: 0 10px 0 10px;
             display: flex;
@@ -114,7 +117,7 @@
         }
 
         .item-3 {
-            background-color: #fcfcca;
+            background-color: #000000;
             width: 30%;
             padding: 0 10px 0 10px;
             display: flex;
@@ -133,6 +136,7 @@
         height: 300px;
         justify-content: space-between;
         margin: 0;
+
         .item-1 {
             width: 50%;
             padding: 0 10px 0 10px;
@@ -142,7 +146,7 @@
             justify-content: center;
             margin: 5px;
             border-radius: 10px;
-            box-shadow:  0 0 5px #b4b4b4;
+            box-shadow: 0 0 5px #b4b4b4;
 
 
             h2 {
@@ -163,7 +167,7 @@
         }
 
         .item-2 {
-            background-color: #b2d0dd;
+            background-color: #000000;
             width: 25%;
             padding: 0 10px 0 10px;
             display: flex;
@@ -175,7 +179,7 @@
         }
 
         .item-3 {
-            background-color: #fcfcca;
+            background-color: #000000;
             width: 30%;
             padding: 0 10px 0 10px;
             display: flex;
