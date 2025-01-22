@@ -1,4 +1,3 @@
-import { Github } from "@medusajs/icons"
 import { Button, Heading } from "@medusajs/ui"
 
 const Hero = () => {
@@ -10,22 +9,21 @@ const Hero = () => {
             level="h1"
             className="text-3xl leading-10 text-ui-fg-base font-normal"
           >
-            Ecommerce Starter Template
+            Pretty Flower
           </Heading>
           <Heading
-            level="h2"
+            level="h3"
             className="text-3xl leading-10 text-ui-fg-subtle font-normal"
           >
-            Powered by Medusa and Next.js
+            Beauté et Savoir Faire
           </Heading>
         </span>
         <a
           href="https://github.com/medusajs/nextjs-starter-medusa"
           target="_blank"
         >
-          <Button variant="secondary">
-            View on GitHub
-            <Github />
+          <Button variant="secondary" size="xlarge" >
+            Acheter des Fleurs
           </Button>
         </a>
       </div>
